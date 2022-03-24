@@ -1,5 +1,5 @@
 {
-  description = ''Provides a small command line parsing DSL (domain specific language)'';
+  description = ''A small command line parsing DSL'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
